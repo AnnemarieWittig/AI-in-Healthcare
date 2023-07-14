@@ -1,0 +1,41 @@
+= AI in Healthcare - Practical Submission
+
+This repository contains the submission of the practical tasks in AI-in-Healthcare by Annemarie Wittig.
+
+== Structure
+
+There are four subdirectories:
+
+* _1_task_one_ for the first task the related notebook is link:1_task_one/task_one.ipynb[task_one]
+* _2_task_two_ for the second task the related notebook is link:2_task_two/task_two.ipynb[task_two]
+* _3_task_three_ for the third task; the related notebook is link:3_task_three/task_three.ipynb[task_three]
+* _dataset_ containing the GAIT data
+
+Each directory has one jupyter notebook containing the code and commentary to answer the questions and each notebook starts by listing the questions and then iterates over each one to answer it as the code goes on. 
+Textual questions will be answered in markdown cells, but others might be answered within the code via outputs or comments.
+Additionally, there might be extra files within the subdirectories that contain the (intermediate) results of some tasks.
+In the directory for the third task, there is an additional jupyter notebook that will be explained and referenced within the task. 
+Please start with the one referenced in above's list.
+
+== Installation
+
+To run the code, please run 
+
+[source,shell]
+-----------------
+pip install requirements.txt
+-----------------
+
+in your environment of choice. The code is written in Python `3.11.3`.
+
+====
+Module: Artificial Intelligence in Healthcare +
+Lecturer: Dr. Sophie Adama +
+Semester: SS23 +
+Date of Submission: 17th of July 2023
+
+Handed in by: Annemarie Wittig +
+Course: Master Computer Science + 
+Enrolment Number: 3789345
+
+====
