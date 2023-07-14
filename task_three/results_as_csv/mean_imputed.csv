@@ -1,4 +1,0 @@
-Folds,Accuracy on Trainingdata (PO),F1 Score on Trainingdata (PO),Accuracy on Testingdata (PO),F1 Score on Testingdata (PO),Accuracy on Trainingdata (PO+CO),F1 Score on Trainingdata (PO+CO),Accuracy on Testingdata (PO+CO),F1 Score on Testingdata (PO+CO)
-5,1,1,0.701587,0.74672,0.998485,0.998658,0.684848,0.7226
-3,1,1,0.677419,0.743888,1,1,0.70303,0.740208
-2,1,1,0.612165,0.677512,1,1,0.745445,0.787532
